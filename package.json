@@ -1,5 +1,5 @@
 {
-  "name": "sweetlog",
+  "name": "bluelog",
   "version": "1.0.0",
   "description": "Simple, Opiniated, ColorBlind friendly logger for TS",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deepakaggarwal7/sweetlog.git"
+    "url": "git+https://github.com/deepakaggarwal7/bluelog.git"
   },
   "keywords": [
     "log"
@@ -16,7 +16,7 @@
   "author": "Deepak Aggarwal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/deepakaggarwal7/sweetlog/issues"
+    "url": "https://github.com/deepakaggarwal7/bluelog/issues"
   },
-  "homepage": "https://github.com/deepakaggarwal7/sweetlog#readme"
+  "homepage": "https://github.com/deepakaggarwal7/bluelog#readme"
 }
