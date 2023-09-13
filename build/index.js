@@ -1,4 +1,7 @@
-export var log = Object.assign(function (content, args) {
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.log = void 0;
+exports.log = Object.assign(function (content, args) {
     console.log(content, args);
 }, {
     error: function (content, args) {
@@ -22,3 +25,4 @@ export var log = Object.assign(function (content, args) {
         console.log(template.replace("...", content), args || "");
     },
 });
+//# sourceMappingURL=index.js.map
