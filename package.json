@@ -1,0 +1,22 @@
+{
+  "name": "sweetlog",
+  "version": "1.0.0",
+  "description": "Simple, Opiniated, ColorBlind friendly logger for TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakaggarwal7/sweetlog.git"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "Deepak Aggarwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepakaggarwal7/sweetlog/issues"
+  },
+  "homepage": "https://github.com/deepakaggarwal7/sweetlog#readme"
+}
